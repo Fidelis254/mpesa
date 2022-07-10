@@ -11,7 +11,6 @@
     python -m venv virtualenv_name
     cd virtualenv_name
     source bin/activate
-    git clone https://github.com/mugane-dj/mpesa-daraja-stk.git
     ```
 2. Install requirements:
     ```
