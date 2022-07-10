@@ -69,7 +69,7 @@ def stk_push() -> str:
         "PartyB": os.getenv('BUSINESS_CODE'),
         "PhoneNumber": os.getenv('PHONE_NUMBER'),
         "CallBackURL": "https://darajambili.herokuapp.com/express-payment",
-        "AccountReference": "0112356789",
+        "AccountReference": "254727911325",
         "TransactionDesc": "Pay bill"
     }
 
